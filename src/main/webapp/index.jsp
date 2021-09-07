@@ -12,4 +12,5 @@
 		<%= request.getRemoteAddr()  %></p>
 		This is a new line added by Vijai.
 		This line is added for req #3.
+  		Adding new line for requirement #2.
 </body>
