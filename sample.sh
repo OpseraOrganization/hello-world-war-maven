@@ -5,6 +5,12 @@ export PIPELINEID=${opsera_pipeline_id}
 
 echo ${PURUS_VAR1}
 echo ${PURUS_VAR1}
+echo ${PURUS_VAR1}
+echo ${PURUS_VAR1}
 # echo ${PURUS_VAR2}
-echo ${PURUS_VAR3}
-echo ${PIPELINEID}
+# echo ${PURUS_VAR3}
+# echo ${PURUS_VAR3}
+# echo ${PURUS_VAR3}
+# echo ${PIPELINEID}
+# echo ${PIPELINEID}
+# echo ${PIPELINEID}
