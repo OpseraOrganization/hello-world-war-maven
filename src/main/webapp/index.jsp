@@ -11,4 +11,5 @@
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
 		This is a new line added by Vijai.
+		This line is added for req #3.
 </body>
