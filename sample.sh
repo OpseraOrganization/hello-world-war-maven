@@ -7,6 +7,8 @@ echo ${PURUS_VAR1}
 echo ${PURUS_VAR1}
 echo ${PURUS_VAR1}
 echo ${PURUS_VAR1}
+echo ${PURUS_VAR1}
+echo ${PURUS_VAR1}
 # echo ${PURUS_VAR2}
 # echo ${PURUS_VAR3}
 # echo ${PURUS_VAR3}
