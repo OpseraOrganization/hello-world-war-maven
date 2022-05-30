@@ -3,7 +3,6 @@ export PURUS_VAR2=${opsera-region}
 export PURUS_VAR3=${opsera-hellonewtest}
 export PURUS_VAR4=${opsera-kafkaconnect-sink-restart}
 export PURUS_VAR5=${opsera-demo-region-hard}
-export PURUS_VAR6=${opsera-special}
 export PIPELINEID=${opsera_pipeline_id}
 
 
